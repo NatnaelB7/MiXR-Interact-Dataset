@@ -4,7 +4,7 @@ The MeGaBoT Dataset is based on the Meta Quest Pro VR headset system. It include
 
 # Dataset Access
 
-The MeGaBoT Dataset can be accessed at the following link: [MeGaBoT Dataset on IIT Dataverse](https://dataverse.iit.it/dataset.xhtml?persistentId=doi:10.48557/IQ4AZY&version=DRAFT). Download the zip file and extract its contents to access the data.
+The MeGaBoT Dataset can be accessed at the following link: [MeGaBoT Dataset](https://dataverse.iit.it/dataset.xhtml?persistentId=doi:10.48557/IQ4AZY&version=DRAFT). Download the zip file and extract its contents to access the data.
 
 # Project Website
 
