@@ -8,7 +8,7 @@ The MiXR-Interact-Dataset can be accessed at the following link: [MiXR-Interact-
 
 # Project Website
 
-Visit the official MiXR-Interact-Dataset website for additional information and updates: [website](https://natnaelb7.github.io/MiXR-Interact-Dataset/).
+Visit the official MiXR-Interact-Dataset website for additional information and updates: [website](https://natnaelb7.github.io/MiXR-Interact-Website/).
 
 # Citation
 
