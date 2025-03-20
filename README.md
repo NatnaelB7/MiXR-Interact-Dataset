@@ -15,13 +15,10 @@ Visit the official MiXR-Interact-Dataset website for additional information and 
 If you use the MiXR-Interact-Dataset in your research or projects, please cite it using the following:
 
 ```
-@data{IQ4AZY_2024,
-        author = {Takele, Natnael Berhanu},
-        publisher = {IIT Dataverse},
-        title = {{MiXR-Interact: Mixed Reality Interaction Dataset for Gaze, Hand, and Body}},
-        year = {2024},
-        version = {DRAFT VERSION},
-        doi = {10.48557/IQ4AZY},
-        url = {https://doi.org/10.48557/IQ4AZY}
+@inproceedings{takele2025mixr,
+  title={MiXR-Interact: Mixed Reality Interaction Dataset for Gaze, Hand, and Body},
+  author={Takele, Natnael Berhanu and Delehelle, Donatien and Kim, Yaesol and Tefera, Yonas Teodros and Deshpande, Nikhil and Caldwell, Darwin G and Ortiz, Jesus and Recchiuto, Carmine Tommaso},
+  booktitle={HRI 2025 Workshop VAM-HRI}
 }
+
 ```
